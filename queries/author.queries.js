@@ -1,0 +1,3 @@
+authorsQuery = {
+} 
+module.exports = authorsQuery;

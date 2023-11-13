@@ -1,0 +1,3 @@
+entryQuery = {
+} 
+module.exports = entryQuery;
